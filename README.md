@@ -27,19 +27,22 @@
 
 <br>
 
-## Tecnología hecha cerca
-
-ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.
-
-Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas para que cada cliente pueda avanzar sin interrupciones.
-
-### Nuestra promesa
-
-> Conexiones estables, asesoría clara y acompañamiento profesional en cada proyecto.
-
-**01** Diagnóstico transparente<br>
-**02** Soluciones escalables<br>
-**03** Soporte técnico cercano
+<table border="0" cellpadding="18" cellspacing="0">
+  <tr>
+    <td width="58%" valign="top">
+      <p><strong>TECNOLOGÍA HECHA CERCA</strong></p>
+      <h2>Soluciones claras para avanzar sin interrupciones.</h2>
+      <p>ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.</p>
+      <p>Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas confiables, escalables y pensadas para cada cliente.</p>
+    </td>
+    <td width="42%" valign="top" bgcolor="#101A2B">
+      <p><strong>NUESTRA PROMESA</strong></p>
+      <h3>La tecnología debe sentirse simple.</h3>
+      <p>Conexiones estables, asesoría clara y acompañamiento profesional en cada proyecto.</p>
+      <p><strong>01</strong> Diagnóstico transparente<br><br><strong>02</strong> Soluciones escalables<br><br><strong>03</strong> Soporte técnico cercano</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
