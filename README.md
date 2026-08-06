@@ -23,18 +23,11 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
 ## Tecnología hecha cerca
 
 ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.
 
 Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas para que cada cliente pueda avanzar sin interrupciones.
-
-    </td>
-    <td width="42%" valign="top">
 
 ### Nuestra promesa
 
@@ -44,67 +37,20 @@ Instalamos internet residencial por fibra óptica y desarrollamos soluciones de 
 **02** Soluciones escalables<br>
 **03** Soporte técnico cercano
 
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Soluciones para conectar mejor
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="52"><br><br>
-      <strong>Fibra óptica</strong><br>
-      <sub>Instalación y despliegue de redes.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/icons/home.svg" alt="Internet residencial" width="52"><br><br>
-      <strong>Internet residencial</strong><br>
-      <sub>Conectividad para hogares y familias.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="52"><br><br>
-      <strong>Ingeniería y sistemas</strong><br>
-      <sub>Diseño y consultoría tecnológica.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/icons/support.svg" alt="Soporte técnico" width="52"><br><br>
-      <strong>Soporte técnico</strong><br>
-      <sub>Acompañamiento profesional cercano.</sub>
-    </td>
-  </tr>
-</table>
+| <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="52"><br><br><strong>Fibra óptica</strong><br><sub>Instalación y despliegue de redes.</sub> | <img src="./assets/icons/home.svg" alt="Internet residencial" width="52"><br><br><strong>Internet residencial</strong><br><sub>Conectividad para hogares y familias.</sub> | <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="52"><br><br><strong>Ingeniería y sistemas</strong><br><sub>Diseño y consultoría tecnológica.</sub> | <img src="./assets/icons/support.svg" alt="Soporte técnico" width="52"><br><br><strong>Soporte técnico</strong><br><sub>Acompañamiento profesional cercano.</sub> |
+| :---: | :---: | :---: | :---: |
 
 ## Planes de internet residencial
 
-<table>
-  <tr>
-    <th align="left">PLAN</th>
-    <th align="center">VELOCIDAD</th>
-    <th align="center">PRECIO / MES</th>
-    <th align="left">IDEAL PARA</th>
-  </tr>
-  <tr>
-    <td><strong>BÁSICO</strong></td>
-    <td align="center"><strong>20 Mbps</strong></td>
-    <td align="center"><strong>$20.00</strong></td>
-    <td>Uso cotidiano y navegación rápida</td>
-  </tr>
-  <tr>
-    <td><strong>ESTÁNDAR</strong><br><sub>Promoción</sub></td>
-    <td align="center"><strong>30 Mbps</strong></td>
-    <td align="center"><strong>$24.99</strong></td>
-    <td>Streaming HD, trabajo y juegos en línea</td>
-  </tr>
-  <tr>
-    <td><strong>PREMIUM</strong></td>
-    <td align="center"><strong>40 Mbps</strong></td>
-    <td align="center"><strong>$28.00</strong></td>
-    <td>Múltiples dispositivos y máxima velocidad</td>
-  </tr>
-</table>
+| PLAN | VELOCIDAD | PRECIO / MES | IDEAL PARA |
+| :--- | :---: | :---: | :--- |
+| **BÁSICO** | **20 Mbps** | **$20.00** | Uso cotidiano y navegación rápida |
+| **ESTÁNDAR** · *Promoción* | **30 Mbps** | **$24.99** | Streaming HD, trabajo y juegos en línea |
+| **PREMIUM** | **40 Mbps** | **$28.00** | Múltiples dispositivos y máxima velocidad |
 
 Todos los planes incluyen soporte técnico. La promoción del plan Estándar está sujeta a disponibilidad y condiciones comerciales vigentes.
 
@@ -130,9 +76,9 @@ Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óp
 
 <a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="64"></a>
 
-### <a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a>
+<h3><a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a></h3>
 
-**7630-0536** · **El Salvador, Centroamérica**
+<strong>7630-0536</strong> · <strong>El Salvador, Centroamérica</strong>
 
 </div>
 
@@ -146,7 +92,7 @@ Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óp
   <img src="./assets/acanets-logo-dark.png" alt="ACANETS" width="170">
 </picture>
 
-**ACANETS, S.A.S. de C.V.**<br>
+<strong>ACANETS, S.A.S. de C.V.</strong><br>
 Internet de fibra óptica · Ingeniería · Sistemas
 
 © 2026 ACANETS. Todos los derechos reservados.
