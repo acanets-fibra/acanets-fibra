@@ -3,146 +3,108 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
-  <img src="./assets/acanets-logo-dark.png" alt="Logo de ACANETS" width="420">
+  <img src="./assets/acanets-logo-dark.png" alt="Logo oficial de ACANETS" width="420">
 </picture>
 
-# 🌐 Conectamos el futuro de El Salvador
+# Conectamos el futuro de El Salvador
 
-### 🚀 Internet de fibra óptica · Ingeniería · Sistemas
+### Internet de fibra óptica · Ingeniería · Sistemas
 
-<br>
-
-<a href="https://wa.me/50376300536">
-  <img src="https://img.shields.io/badge/💬%20WhatsApp-7630--0536-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📍%20El%20Salvador-Disponible-blue?style=for-the-badge">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/⚡%20Fibra%20Óptica-100%25%20Estable-6FA8FF?style=for-the-badge">
-</a>
+<a href="https://wa.me/50376300536"><img src="https://img.shields.io/badge/WhatsApp-7630--0536-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp ACANETS"></a>
+<img src="https://img.shields.io/badge/El%20Salvador-Servicio%20local-2F6FC5?style=for-the-badge" alt="Servicio local en El Salvador">
+<img src="https://img.shields.io/badge/Fibra%20óptica-Conectividad-111827?style=for-the-badge" alt="Internet por fibra óptica">
 
 </div>
 
----
-
-## 🧠 Tecnología hecha cerca
-
 <table>
-<tr>
-<td width="55%" valign="top">
+  <tr>
+    <td width="52%" valign="top">
 
-ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: **acercar la tecnología a hogares, negocios y organizaciones**.
+## Tecnología hecha cerca
 
-Nos especializamos en **internet por fibra óptica** y en el desarrollo de **soluciones tecnológicas a medida**, asegurando estabilidad, velocidad y crecimiento para cada cliente.
+ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.
 
-</td>
-<td width="45%" valign="top">
+Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas para que cada cliente pueda avanzar sin interrupciones.
 
-### ✨ Nuestra promesa
+    </td>
+    <td width="48%" valign="top">
+
+### Nuestra promesa
 
 > Conexiones estables, asesoría clara y acompañamiento profesional en cada proyecto.
 
-✔ Diagnóstico transparente
-✔ Soluciones escalables
-✔ Soporte técnico cercano
+**01** Diagnóstico transparente<br>
+**02** Soluciones escalables<br>
+**03** Soporte técnico cercano
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Servicios
+## Servicios
 
 <table>
-<tr>
-<td align="center" width="33%">
-
-### 🔌 Fibra óptica
-
-Instalación y despliegue de redes modernas para hogares y proyectos.
-
-</td>
-<td align="center" width="33%">
-
-### 🏠 Internet residencial
-
-Planes ideales para estudio, trabajo, streaming y gaming.
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Ingeniería y sistemas
-
-Consultoría, diseño e implementación de soluciones tecnológicas.
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="48"><br>
+      <strong>Fibra óptica</strong><br>
+      <sub>Instalación y despliegue de redes.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/icons/home.svg" alt="Internet residencial" width="48"><br>
+      <strong>Internet residencial</strong><br>
+      <sub>Conectividad para hogares y familias.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="48"><br>
+      <strong>Ingeniería y sistemas</strong><br>
+      <sub>Diseño y consultoría tecnológica.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/icons/support.svg" alt="Soporte técnico" width="48"><br>
+      <strong>Soporte técnico</strong><br>
+      <sub>Acompañamiento profesional cercano.</sub>
+    </td>
+  </tr>
 </table>
 
----
+## Planes de internet residencial
 
-## 📶 Planes de Internet
+| PLAN | VELOCIDAD | PRECIO MENSUAL | IDEAL PARA |
+| :--- | :---: | :---: | :--- |
+| **BÁSICO** | **20 Mbps** | **$20.00** | Uso cotidiano y navegación rápida |
+| **ESTÁNDAR** | **30 Mbps** | **$24.99** | Streaming HD, trabajo y juegos en línea |
+| **PREMIUM** | **40 Mbps** | **$28.00** | Múltiples dispositivos y máxima velocidad |
 
-<table>
-<tr>
-<th>PLAN</th>
-<th>VELOCIDAD</th>
-<th>PRECIO</th>
-<th>IDEAL PARA</th>
-</tr>
+Todos los planes incluyen soporte técnico. La promoción del plan Estándar está sujeta a disponibilidad y condiciones comerciales vigentes.
 
-<tr>
-<td><strong>🟢 BÁSICO</strong></td>
-<td align="center"><strong>20 Mbps</strong></td>
-<td align="center"><strong>$20.00</strong></td>
-<td>Uso cotidiano y navegación rápida</td>
-</tr>
-
-<tr>
-<td><strong>🔵 ESTÁNDAR</strong></td>
-<td align="center"><strong>30 Mbps</strong></td>
-<td align="center"><strong>$24.99</strong></td>
-<td>Streaming HD, trabajo remoto y gaming</td>
-</tr>
-
-<tr>
-<td><strong>🟣 PREMIUM</strong></td>
-<td align="center"><strong>40 Mbps</strong></td>
-<td align="center"><strong>$28.00</strong></td>
-<td>Hogares con múltiples dispositivos</td>
-</tr>
-
-</table>
-
-<br>
-
-💡 Todos los planes incluyen soporte técnico.
-📌 Instalación y cobertura sujetas a evaluación previa.
+La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de la instalación está sujeto a revisión según las condiciones de cada proyecto.
 
 ---
 
-## ⚙️ Nuestro proceso
+## Así trabajamos
 
-| Paso | Acción         | Descripción                        |
-| :--: | :------------- | :--------------------------------- |
-|  01  | 🎧 Escuchamos  | Entendemos tus necesidades         |
-|  02  | 🔍 Evaluamos   | Analizamos cobertura y condiciones |
-|  03  | 💡 Proponemos  | Diseñamos la mejor solución        |
-|  04  | 🛠️ Instalamos | Implementamos con precisión        |
-|  05  | 🤝 Acompañamos | Soporte continuo y cercano         |
+| PASO | ACCIÓN | DESCRIPCIÓN |
+| :---: | :--- | :--- |
+| **01** | Escuchamos | Entendemos tus necesidades y objetivos. |
+| **02** | Evaluamos | Revisamos cobertura, espacio y condiciones técnicas. |
+| **03** | Proponemos | Presentamos una solución clara y adecuada a tu presupuesto. |
+| **04** | Instalamos | Configuramos el servicio con cuidado y precisión. |
+| **05** | Acompañamos | Seguimos cerca con soporte técnico profesional. |
 
----
+## ¿Hablamos de tu próximo proyecto?
 
-## 📲 ¿Listo para conectarte?
+Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óptica o una consulta de ingeniería y sistemas.
 
 <div align="center">
 
-### 💬 <a href="https://wa.me/50376300536">Escríbenos por WhatsApp</a>
+<a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="58"></a>
 
-**📞 7630-0536**
-**📍 El Salvador, Centroamérica**
+### <a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a>
+
+**7630-0536** · **El Salvador, Centroamérica**
 
 </div>
 
@@ -156,10 +118,9 @@ Consultoría, diseño e implementación de soluciones tecnológicas.
   <img src="./assets/acanets-logo-dark.png" alt="ACANETS" width="180">
 </picture>
 
-### **ACANETS, S.A.S. de C.V.**
-
+**ACANETS, S.A.S. de C.V.**<br>
 Internet de fibra óptica · Ingeniería · Sistemas
 
-<sub>© 2026 ACANETS. Todos los derechos reservados.</sub>
+© 2026 ACANETS. Todos los derechos reservados.
 
 </div>
