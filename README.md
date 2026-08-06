@@ -27,16 +27,16 @@
 
 <br>
 
-<table border="0" cellpadding="18" cellspacing="0">
+<table width="100%" border="0" cellpadding="18" cellspacing="10">
   <tr>
     <td width="58%" valign="top">
-      <p><strong>TECNOLOGÍA HECHA CERCA</strong></p>
+      <p><font color="#9CCBFF"><strong>TECNOLOGÍA HECHA CERCA</strong></font></p>
       <h2>Soluciones claras para avanzar sin interrupciones.</h2>
-      <p>ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada Marvin Alvarenga con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.</p>
+      <p>ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.</p>
       <p>Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas confiables, escalables y pensadas para cada cliente.</p>
     </td>
-    <td width="42%" valign="top" bgcolor="#101A2B">
-      <p><strong>NUESTRA PROMESA</strong></p>
+    <td width="42%" valign="top" bgcolor="#132745">
+      <p><font color="#9CCBFF"><strong>NUESTRA PROMESA</strong></font></p>
       <h3>La tecnología debe sentirse simple.</h3>
       <p>Conexiones estables, asesoría clara y acompañamiento profesional en cada proyecto.</p>
       <p><strong>01</strong> Diagnóstico transparente<br><br><strong>02</strong> Soluciones escalables<br><br><strong>03</strong> Soporte técnico cercano</p>
@@ -48,29 +48,35 @@
 
 ## Soluciones para conectar mejor
 
-| <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="52"><br><br><strong>Fibra óptica</strong><br><sub>Instalación y despliegue de redes.</sub> | <img src="./assets/icons/home.svg" alt="Internet residencial" width="52"><br><br><strong>Internet residencial</strong><br><sub>Conectividad para hogares y familias.</sub> | <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="52"><br><br><strong>Ingeniería y sistemas</strong><br><sub>Diseño y consultoría tecnológica.</sub> | <img src="./assets/icons/support.svg" alt="Soporte técnico" width="52"><br><br><strong>Soporte técnico</strong><br><sub>Acompañamiento profesional cercano.</sub> |
-| :---: | :---: | :---: | :---: |
+<table width="100%" border="0" cellpadding="18" cellspacing="10">
+  <tr>
+    <td width="25%" align="center" valign="top" bgcolor="#132745"><img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="54"><h3>Fibra óptica</h3><sub>Instalación y despliegue de redes.</sub></td>
+    <td width="25%" align="center" valign="top" bgcolor="#132745"><img src="./assets/icons/home.svg" alt="Internet residencial" width="54"><h3>Internet residencial</h3><sub>Conectividad para hogares y familias.</sub></td>
+    <td width="25%" align="center" valign="top" bgcolor="#132745"><img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="54"><h3>Ingeniería y sistemas</h3><sub>Diseño y consultoría tecnológica.</sub></td>
+    <td width="25%" align="center" valign="top" bgcolor="#132745"><img src="./assets/icons/support.svg" alt="Soporte técnico" width="54"><h3>Soporte técnico</h3><sub>Acompañamiento profesional cercano.</sub></td>
+  </tr>
+</table>
 
 ## Planes de internet residencial
 
-<table border="0" cellpadding="18" cellspacing="10">
+<table width="100%" border="0" cellpadding="20" cellspacing="10">
   <tr>
     <td width="33%" valign="top" bgcolor="#101A2B">
-      <p><strong>PLAN BÁSICO</strong></p>
+      <p><font color="#9CCBFF"><strong>PLAN BÁSICO</strong></font></p>
       <h2>20 Mbps</h2>
       <p><strong>$20.00 / mes</strong></p>
       <hr>
       <p><sub>Navegación rápida<br>Uso cotidiano<br>Soporte técnico</sub></p>
     </td>
-    <td width="33%" valign="top" bgcolor="#173A70">
-      <p><strong>PLAN ESTÁNDAR · PROMOCIÓN</strong></p>
+    <td width="33%" valign="top" bgcolor="#1D4F94">
+      <p><font color="#D8EDFF"><strong>PLAN ESTÁNDAR</strong></font><br><sub>RECOMENDADO · PROMOCIÓN</sub></p>
       <h2>30 Mbps</h2>
       <p><strong>$24.99 / mes</strong></p>
       <hr>
       <p><sub>Streaming HD<br>Trabajo y juegos en línea<br>Soporte técnico</sub></p>
     </td>
     <td width="33%" valign="top" bgcolor="#101A2B">
-      <p><strong>PLAN PREMIUM</strong></p>
+      <p><font color="#9CCBFF"><strong>PLAN PREMIUM</strong></font></p>
       <h2>40 Mbps</h2>
       <p><strong>$28.00 / mes</strong></p>
       <hr>
@@ -107,10 +113,8 @@ La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de
 
 ---
 
-<table border="0" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="34%" valign="middle"><strong>ACANETS</strong><br><sub>S.A.S. de C.V.</sub></td>
-    <td width="33%" align="center" valign="middle"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="32"> <a href="https://wa.me/50376300536"><strong>7630-0536</strong></a></td>
-    <td width="33%" align="right" valign="middle"><sub>Internet de fibra óptica · Ingeniería · Sistemas<br>© 2026 ACANETS · Todos los derechos reservados.</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <p><strong>ACANETS</strong> · S.A.S. de C.V.</p>
+  <p><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="32"> <a href="https://wa.me/50376300536"><strong>7630-0536</strong></a> · Internet de fibra óptica · Ingeniería · Sistemas</p>
+  <sub>© 2026 ACANETS · Todos los derechos reservados.</sub>
+</div>
