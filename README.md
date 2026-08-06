@@ -101,32 +101,16 @@ La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de
 
 ## Hablemos de tu próximo proyecto
 
-<table border="0" cellpadding="28" cellspacing="0" bgcolor="#102A50">
-  <tr>
-    <td align="center">
-      <p><strong>EMPECEMOS UNA CONVERSACIÓN</strong></p>
-      <h2>Tu próximo proyecto empieza conectado.</h2>
-      <p>Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óptica o una consulta de ingeniería y sistemas.</p>
-      <a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="64"></a>
-      <h3><a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a></h3>
-      <p><strong>7630-0536</strong> · El Salvador, Centroamérica</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://wa.me/50376300536"><img src="./assets/acanets-contact.svg" alt="Escribir a ACANETS por WhatsApp" width="100%"></a>
+</div>
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
-  <img src="./assets/acanets-logo-dark.png" alt="ACANETS" width="170">
-</picture>
-
-<strong>ACANETS, S.A.S. de C.V.</strong><br>
-Internet de fibra óptica · Ingeniería · Sistemas
-
-© 2026 ACANETS. Todos los derechos reservados.
-
-</div>
+<table border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td width="34%" valign="middle"><strong>ACANETS</strong><br><sub>S.A.S. de C.V.</sub></td>
+    <td width="33%" align="center" valign="middle"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="32"> <a href="https://wa.me/50376300536"><strong>7630-0536</strong></a></td>
+    <td width="33%" align="right" valign="middle"><sub>Internet de fibra óptica · Ingeniería · Sistemas<br>© 2026 ACANETS · Todos los derechos reservados.</sub></td>
+  </tr>
+</table>

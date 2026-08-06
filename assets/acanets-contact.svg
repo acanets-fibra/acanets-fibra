@@ -1,0 +1,39 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="contact-bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173A70"/>
+      <stop offset="0.58" stop-color="#2A5DA9"/>
+      <stop offset="1" stop-color="#6FA8FF"/>
+    </linearGradient>
+    <radialGradient id="contact-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(982 80) rotate(137) scale(260 330)">
+      <stop stop-color="#D8EDFF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#D8EDFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#contact-bg)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#contact-glow)"/>
+
+  <g opacity="0.44" stroke="#C7E5FF" stroke-width="1.2">
+    <path d="M770 -50C887 53 1010 79 1240 60"/>
+    <path d="M743 -15C880 103 1031 122 1241 98"/>
+    <path d="M728 28C874 154 1034 169 1236 140"/>
+    <path d="M728 82C877 205 1033 209 1228 178"/>
+    <path d="M735 140C878 255 1024 253 1210 218"/>
+  </g>
+
+  <g fill="#D8EDFF">
+    <circle cx="1002" cy="78" r="3"/>
+    <circle cx="1065" cy="111" r="3"/>
+    <circle cx="1115" cy="147" r="3"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="68" y="64" fill="#D8EDFF" font-size="13" font-weight="700" letter-spacing="4">EMPECEMOS UNA CONVERSACIÓN</text>
+    <text x="68" y="122" fill="#FFFFFF" font-size="38" font-weight="700">Tu próximo proyecto</text>
+    <text x="68" y="167" fill="#C7E5FF" font-size="38" font-weight="700">empieza conectado.</text>
+    <text x="68" y="202" fill="#E8F4FF" font-size="15">Internet, fibra óptica e ingeniería para tus próximos pasos.</text>
+    <rect x="68" y="232" width="284" height="42" rx="21" fill="#F5FAFF"/>
+    <text x="91" y="258" fill="#173A70" font-size="13" font-weight="700" letter-spacing="1">WHATSAPP · 7630-0536</text>
+  </g>
+</svg>
