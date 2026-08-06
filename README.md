@@ -32,7 +32,7 @@
     <td width="58%" valign="top">
       <p><strong>TECNOLOGÍA HECHA CERCA</strong></p>
       <h2>Soluciones claras para avanzar sin interrupciones.</h2>
-      <p>ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.</p>
+      <p>ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada Marvin Alvarenga con una visión clara: acercar la tecnología a hogares, negocios y organizaciones.</p>
       <p>Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas confiables, escalables y pensadas para cada cliente.</p>
     </td>
     <td width="42%" valign="top" bgcolor="#101A2B">
