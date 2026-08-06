@@ -1,19 +1,23 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
-  <img src="./assets/acanets-logo-dark.png" alt="Logo oficial de ACANETS" width="330">
-</picture>
-
-<h1>Conectamos el futuro de El Salvador</h1>
-
-<p>Internet de fibra óptica · Ingeniería · Sistemas</p>
-
-<a href="https://wa.me/50376300536"><img src="https://img.shields.io/badge/WhatsApp-7630--0536-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp ACANETS"></a>
-<img src="https://img.shields.io/badge/El%20Salvador-Servicio%20local-2F6FC5?style=for-the-badge" alt="Servicio local en El Salvador">
-
-</div>
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
+        <img src="./assets/acanets-logo-dark.png" alt="Logo oficial de ACANETS" width="220">
+      </picture>
+    </td>
+    <td width="64%" valign="middle">
+      <h1>Conectamos el futuro de El Salvador</h1>
+      <p><strong>Internet de fibra óptica · Ingeniería · Sistemas</strong></p>
+      <p>Conectividad confiable y soluciones tecnológicas diseñadas para avanzar sin interrupciones.</p>
+      <p>
+        <a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="38"></a>
+        <strong> 7630-0536</strong> · El Salvador, Centroamérica
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
