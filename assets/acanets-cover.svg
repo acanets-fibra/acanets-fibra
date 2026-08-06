@@ -1,0 +1,47 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.55" stop-color="#102A50"/>
+      <stop offset="1" stop-color="#2864B9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(932 144) rotate(132) scale(238 304)">
+      <stop stop-color="#8BC7FF" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#4D8FF0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="670" y1="0" x2="1175" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A9D8FF" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#64A7FF" stop-opacity="0.06"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#9CCBFF" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glow)"/>
+
+  <g opacity="0.65" stroke="url(#line)" stroke-width="1.4">
+    <path d="M730 -42C866 57 1014 94 1230 86"/>
+    <path d="M702 -18C857 112 1035 137 1234 119"/>
+    <path d="M688 18C844 167 1046 190 1228 164"/>
+    <path d="M684 68C847 226 1041 239 1222 206"/>
+    <path d="M694 128C858 286 1036 289 1204 253"/>
+  </g>
+
+  <g fill="#A9D8FF">
+    <circle cx="1010" cy="94" r="3"/>
+    <circle cx="1074" cy="129" r="3"/>
+    <circle cx="1120" cy="168" r="3"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="86" fill="#9CCBFF" font-size="14" font-weight="700" letter-spacing="4">ACANETS · EL SALVADOR</text>
+    <text x="72" y="154" fill="#F5F9FF" font-size="44" font-weight="700">Conexiones que</text>
+    <text x="72" y="207" fill="#9CCBFF" font-size="44" font-weight="700">responden.</text>
+    <text x="72" y="258" fill="#C5D9F3" font-size="17" letter-spacing="1">FIBRA ÓPTICA  ·  INGENIERÍA  ·  SISTEMAS</text>
+    <path d="M72 286H310" stroke="#6FA8FF" stroke-width="2"/>
+    <circle cx="322" cy="286" r="4" fill="#6FA8FF"/>
+  </g>
+</svg>

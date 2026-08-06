@@ -3,22 +3,29 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
-  <img src="./assets/acanets-logo-dark.png" alt="Logo oficial de ACANETS" width="420">
+  <img src="./assets/acanets-logo-dark.png" alt="Logo oficial de ACANETS" width="330">
 </picture>
 
-# Conectamos el futuro de El Salvador
+<h1>Conectamos el futuro de El Salvador</h1>
 
-### Internet de fibra óptica · Ingeniería · Sistemas
+<p>Internet de fibra óptica · Ingeniería · Sistemas</p>
 
 <a href="https://wa.me/50376300536"><img src="https://img.shields.io/badge/WhatsApp-7630--0536-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp ACANETS"></a>
 <img src="https://img.shields.io/badge/El%20Salvador-Servicio%20local-2F6FC5?style=for-the-badge" alt="Servicio local en El Salvador">
-<img src="https://img.shields.io/badge/Fibra%20óptica-Conectividad-111827?style=for-the-badge" alt="Internet por fibra óptica">
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="./assets/acanets-cover.svg" alt="ACANETS: conexiones que responden" width="100%">
+</div>
+
+<br>
+
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="58%" valign="top">
 
 ## Tecnología hecha cerca
 
@@ -27,7 +34,7 @@ ACANETS, S.A.S. de C.V. es una empresa salvadoreña fundada por tres amigos con 
 Instalamos internet residencial por fibra óptica y desarrollamos soluciones de ingeniería y sistemas para que cada cliente pueda avanzar sin interrupciones.
 
     </td>
-    <td width="48%" valign="top">
+    <td width="42%" valign="top">
 
 ### Nuestra promesa
 
@@ -43,27 +50,27 @@ Instalamos internet residencial por fibra óptica y desarrollamos soluciones de 
 
 ---
 
-## Servicios
+## Soluciones para conectar mejor
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="48"><br>
+      <img src="./assets/icons/fiber.svg" alt="Fibra óptica" width="52"><br><br>
       <strong>Fibra óptica</strong><br>
       <sub>Instalación y despliegue de redes.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/icons/home.svg" alt="Internet residencial" width="48"><br>
+      <img src="./assets/icons/home.svg" alt="Internet residencial" width="52"><br><br>
       <strong>Internet residencial</strong><br>
       <sub>Conectividad para hogares y familias.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="48"><br>
+      <img src="./assets/icons/engineering.svg" alt="Ingeniería y sistemas" width="52"><br><br>
       <strong>Ingeniería y sistemas</strong><br>
       <sub>Diseño y consultoría tecnológica.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/icons/support.svg" alt="Soporte técnico" width="48"><br>
+      <img src="./assets/icons/support.svg" alt="Soporte técnico" width="52"><br><br>
       <strong>Soporte técnico</strong><br>
       <sub>Acompañamiento profesional cercano.</sub>
     </td>
@@ -72,11 +79,32 @@ Instalamos internet residencial por fibra óptica y desarrollamos soluciones de 
 
 ## Planes de internet residencial
 
-| PLAN | VELOCIDAD | PRECIO MENSUAL | IDEAL PARA |
-| :--- | :---: | :---: | :--- |
-| **BÁSICO** | **20 Mbps** | **$20.00** | Uso cotidiano y navegación rápida |
-| **ESTÁNDAR** | **30 Mbps** | **$24.99** | Streaming HD, trabajo y juegos en línea |
-| **PREMIUM** | **40 Mbps** | **$28.00** | Múltiples dispositivos y máxima velocidad |
+<table>
+  <tr>
+    <th align="left">PLAN</th>
+    <th align="center">VELOCIDAD</th>
+    <th align="center">PRECIO / MES</th>
+    <th align="left">IDEAL PARA</th>
+  </tr>
+  <tr>
+    <td><strong>BÁSICO</strong></td>
+    <td align="center"><strong>20 Mbps</strong></td>
+    <td align="center"><strong>$20.00</strong></td>
+    <td>Uso cotidiano y navegación rápida</td>
+  </tr>
+  <tr>
+    <td><strong>ESTÁNDAR</strong><br><sub>Promoción</sub></td>
+    <td align="center"><strong>30 Mbps</strong></td>
+    <td align="center"><strong>$24.99</strong></td>
+    <td>Streaming HD, trabajo y juegos en línea</td>
+  </tr>
+  <tr>
+    <td><strong>PREMIUM</strong></td>
+    <td align="center"><strong>40 Mbps</strong></td>
+    <td align="center"><strong>$28.00</strong></td>
+    <td>Múltiples dispositivos y máxima velocidad</td>
+  </tr>
+</table>
 
 Todos los planes incluyen soporte técnico. La promoción del plan Estándar está sujeta a disponibilidad y condiciones comerciales vigentes.
 
@@ -84,7 +112,7 @@ La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de
 
 ---
 
-## Así trabajamos
+## Una forma simple de avanzar
 
 | PASO | ACCIÓN | DESCRIPCIÓN |
 | :---: | :--- | :--- |
@@ -94,13 +122,13 @@ La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de
 | **04** | Instalamos | Configuramos el servicio con cuidado y precisión. |
 | **05** | Acompañamos | Seguimos cerca con soporte técnico profesional. |
 
-## ¿Hablamos de tu próximo proyecto?
+## Hablemos de tu próximo proyecto
 
 Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óptica o una consulta de ingeniería y sistemas.
 
 <div align="center">
 
-<a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="58"></a>
+<a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="64"></a>
 
 ### <a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a>
 
@@ -115,7 +143,7 @@ Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óp
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/acanets-logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/acanets-logo-light.png">
-  <img src="./assets/acanets-logo-dark.png" alt="ACANETS" width="180">
+  <img src="./assets/acanets-logo-dark.png" alt="ACANETS" width="170">
 </picture>
 
 **ACANETS, S.A.S. de C.V.**<br>
