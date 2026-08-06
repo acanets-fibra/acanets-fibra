@@ -53,11 +53,31 @@
 
 ## Planes de internet residencial
 
-| PLAN | VELOCIDAD | PRECIO / MES | IDEAL PARA |
-| :--- | :---: | :---: | :--- |
-| **BÁSICO** | **20 Mbps** | **$20.00** | Uso cotidiano y navegación rápida |
-| **ESTÁNDAR** · *Promoción* | **30 Mbps** | **$24.99** | Streaming HD, trabajo y juegos en línea |
-| **PREMIUM** | **40 Mbps** | **$28.00** | Múltiples dispositivos y máxima velocidad |
+<table border="0" cellpadding="18" cellspacing="10">
+  <tr>
+    <td width="33%" valign="top" bgcolor="#101A2B">
+      <p><strong>PLAN BÁSICO</strong></p>
+      <h2>20 Mbps</h2>
+      <p><strong>$20.00 / mes</strong></p>
+      <hr>
+      <p><sub>Navegación rápida<br>Uso cotidiano<br>Soporte técnico</sub></p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#173A70">
+      <p><strong>PLAN ESTÁNDAR · PROMOCIÓN</strong></p>
+      <h2>30 Mbps</h2>
+      <p><strong>$24.99 / mes</strong></p>
+      <hr>
+      <p><sub>Streaming HD<br>Trabajo y juegos en línea<br>Soporte técnico</sub></p>
+    </td>
+    <td width="33%" valign="top" bgcolor="#101A2B">
+      <p><strong>PLAN PREMIUM</strong></p>
+      <h2>40 Mbps</h2>
+      <p><strong>$28.00 / mes</strong></p>
+      <hr>
+      <p><sub>Múltiples dispositivos<br>Máxima velocidad<br>Soporte técnico</sub></p>
+    </td>
+  </tr>
+</table>
 
 Todos los planes incluyen soporte técnico. La promoción del plan Estándar está sujeta a disponibilidad y condiciones comerciales vigentes.
 
@@ -67,27 +87,32 @@ La cobertura y disponibilidad deben confirmarse antes de contratar. El precio de
 
 ## Una forma simple de avanzar
 
-| PASO | ACCIÓN | DESCRIPCIÓN |
-| :---: | :--- | :--- |
-| **01** | Escuchamos | Entendemos tus necesidades y objetivos. |
-| **02** | Evaluamos | Revisamos cobertura, espacio y condiciones técnicas. |
-| **03** | Proponemos | Presentamos una solución clara y adecuada a tu presupuesto. |
-| **04** | Instalamos | Configuramos el servicio con cuidado y precisión. |
-| **05** | Acompañamos | Seguimos cerca con soporte técnico profesional. |
+<table border="0" cellpadding="16" cellspacing="10">
+  <tr>
+    <td width="33%" valign="top" bgcolor="#101A2B"><h2><font color="#9CCBFF">01</font></h2><strong>Escuchamos</strong><br><sub>Entendemos tus necesidades y objetivos.</sub></td>
+    <td width="33%" valign="top" bgcolor="#101A2B"><h2><font color="#9CCBFF">02</font></h2><strong>Evaluamos</strong><br><sub>Revisamos cobertura, espacio y condiciones técnicas.</sub></td>
+    <td width="33%" valign="top" bgcolor="#101A2B"><h2><font color="#9CCBFF">03</font></h2><strong>Proponemos</strong><br><sub>Presentamos una solución clara y adecuada a tu presupuesto.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#101A2B"><h2><font color="#9CCBFF">04</font></h2><strong>Instalamos</strong><br><sub>Configuramos el servicio con cuidado y precisión.</sub></td>
+    <td width="50%" valign="top" bgcolor="#101A2B"><h2><font color="#9CCBFF">05</font></h2><strong>Acompañamos</strong><br><sub>Seguimos cerca con soporte técnico profesional.</sub></td>
+  </tr>
+</table>
 
 ## Hablemos de tu próximo proyecto
 
-Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óptica o una consulta de ingeniería y sistemas.
-
-<div align="center">
-
-<a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="64"></a>
-
-<h3><a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a></h3>
-
-<strong>7630-0536</strong> · <strong>El Salvador, Centroamérica</strong>
-
-</div>
+<table border="0" cellpadding="28" cellspacing="0" bgcolor="#102A50">
+  <tr>
+    <td align="center">
+      <p><strong>EMPECEMOS UNA CONVERSACIÓN</strong></p>
+      <h2>Tu próximo proyecto empieza conectado.</h2>
+      <p>Cuéntanos qué necesitas: internet para tu hogar, una instalación de fibra óptica o una consulta de ingeniería y sistemas.</p>
+      <a href="https://wa.me/50376300536"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp" width="64"></a>
+      <h3><a href="https://wa.me/50376300536">ESCRIBIR POR WHATSAPP</a></h3>
+      <p><strong>7630-0536</strong> · El Salvador, Centroamérica</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
